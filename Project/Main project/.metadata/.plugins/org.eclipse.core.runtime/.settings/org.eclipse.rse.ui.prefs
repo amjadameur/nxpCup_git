@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.eclipse.rse.preferences.order.connections=phoenix.Local;phoenix.FRDM-TRC_FLASH_OpenSDA;phoenix.FRDM-TRC_FLASH_OpenSDA Target
